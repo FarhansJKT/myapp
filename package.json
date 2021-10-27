@@ -1,0 +1,40 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "simple api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanssAja/myapp.git"
+  },
+  "keywords": [
+    "bot",
+    "api",
+    "rest",
+    "api"
+  ],
+  "author": "Lord Farhanss CodeInId",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhanssAja/myapp/issues"
+  },
+  "homepage": "https://github.com/FarhanssAja/myapp#readme",
+  "dependencies": {
+    "array-flatten": "^3.0.0",
+    "body-parser": "^1.19.0",
+    "content-disposition": "^0.5.3",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.13.0",
+    "finalhandler": "^1.1.2",
+    "http-errors": "^1.8.0",
+    "merge-descriptors": "^1.0.1",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1",
+    "path-to-regexp": "^6.2.0",
+    "utils-merge": "^1.0.1"
+  }
+}
